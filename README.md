@@ -6,18 +6,18 @@
 Projeto criado utilizando exenplo do Bootstrap para ensino de uso do README e Bootstrap. 
 
 ## Descrição 
-
-## Introdução 
+ Esse é um progeto, de Portifólio pessoal para personalizar do jeito que quizer, e ficar uma página simples e bonita.
 
 ## Funcionalidades 
-
-### Funcionalidades 
-
-## Funcionalidades
+A págagia pade ser persomalizada com fotos, escritas, cores.
 
 ### tecnologias utilizadas
+VScode, git Hub, Capapitura de tela; css, Readme, html, google, pasta e tens.
 
-## fontes consultadas 
+## fontes consultadas
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ## Autores
+Ana Paula https://github.com/anapaulacd/portiforio_pessoal 
+leonardo (professor).
 
