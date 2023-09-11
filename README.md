@@ -15,6 +15,9 @@ A págagia pade ser persomalizada com fotos, escritas, cores.
 VScode, git Hub, Capapitura de tela; css, Readme, html, google, pasta e tens.
 
 ## fontes consultadas
+
+* [Alura](alura.com.br/artigos/escrever-bom-readme#referencias-de-readme) - Como escrever um README incrível
+
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ## Autores
