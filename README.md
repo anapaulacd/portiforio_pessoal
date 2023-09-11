@@ -25,9 +25,9 @@ A págagia pade ser persomalizada com fotos, escritas, cores.
 
 ## fontes consultadas
 
-* [Alura](alura.com.br/artigos/escrever-bom-readme#referencias-de-readme) - Como escrever um README incrível
+* [Alura](alura.com.br/artigos/escrever-bom-readme#referencias-de-readme) - Como escrever um README incrível  
 
-https://getbootstrap.com/docs/5.0/getting-started/introduction/
+* [Bootstrapp]https://getbootstrap.com/docs/5.0/getting-started/introduction/  
 
 * [lohhans] https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 
