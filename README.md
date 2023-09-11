@@ -12,7 +12,10 @@ Projeto criado utilizando exenplo do Bootstrap para ensino de uso do README e Bo
 A págagia pade ser persomalizada com fotos, escritas, cores.
 
 ### tecnologias utilizadas
-VScode, git Hub, Capapitura de tela; css, Readme, html, google, pasta e tens.
+* VScode 
+* GitHub
+* Git 
+Capapitura de tela; css, Readme, html, google, pasta e tens.
 
 ## fontes consultadas
 
