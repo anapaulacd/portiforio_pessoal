@@ -2,10 +2,10 @@
 ![image](img/capa.png)
 Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e Bootstrap. 
 
-## Descrição 
+## 🚀 Descrição 
  Esse é um progeto, de Portifólio pessoal para personalizar do jeito que quizer, e ficar uma página simples e bonita.
 
-## Funcionalidades 
+## 🔧 Funcionalidades 
 A página pode ser persomalizada com fotos, escritas, cores.
 
 ### tecnologias utilizadas
