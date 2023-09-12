@@ -29,7 +29,7 @@ A página pode ser persomalizada com fotos, escritas, cores.
 * [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 
 ## Autores
-Ana Paula
+Ana Paula  
 [Github](https://github.com/anapaulacd/portiforio_pessoal)  
 [Linkedin]()  
 Orientador Leonardo  
