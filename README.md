@@ -30,8 +30,8 @@ A página pode ser persomalizada com fotos, escritas, cores.
 
 ## Autores
 Ana Paula
-[Github](https://github.com/anapaulacd/portiforio_pessoal)
-[Linkedin]()
-Orientador Leonardo
-[Github](https://github.com/LeonardoRochaMarista)
+[Github](https://github.com/anapaulacd/portiforio_pessoal)  
+[Linkedin]()  
+Orientador Leonardo  
+[Github](https://github.com/LeonardoRochaMarista)  
 
