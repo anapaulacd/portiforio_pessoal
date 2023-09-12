@@ -1,6 +1,3 @@
-# Projeto para escrita de README
-# ìndice
-
 # Projeto de  portfólio pessoal
 ![image](img/capa.png)
 Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e Bootstrap. 
@@ -27,9 +24,9 @@ A página pode ser persomalizada com fotos, escritas, cores.
 
 * [Alura](alura.com.br/artigos/escrever-bom-readme#referencias-de-readme) - Como escrever um README incrível  
 
-* [Bootstrapp] (https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
 
-* [lohhans] (https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 
 ## Autores
 Ana Paula (https://github.com/anapaulacd/portiforio_pessoal)
